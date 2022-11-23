@@ -11,5 +11,5 @@ console.log("My name is",(obj.name),",and surname is",(obj.surname),".I'm",(obj.
 
 
 let pr = prompt('Son kiriting') 
-let pr2 = prompt("son kiriting")
+let pr2 = prompt('son kiriting')
 console.log(pr % pr2 )
